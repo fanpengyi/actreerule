@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34651277-f1ad-4c4b-931a-b01d2f87f2e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sinoyun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../empty/empty (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/.idea/flink-fengchao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/empty/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/empty/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/empty/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/empty/empty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-article/honeycomb-streaming-article.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-deploy/honeycomb-streaming-deploy (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-deploy/honeycomb-streaming-deploy (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-deploy/honeycomb-streaming-deploy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__ch_ethz_ganymed_ganymed_ssh2_262.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__classworlds_classworlds_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_ahocorasick_0_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_cachecloud_client_redis_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_pcommon_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_peopleyuqing_common_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_sms_webservice_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_alibaba_fastjson_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_alibaba_jstorm_jstorm_core_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_caucho_hessian_4_0_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_codahale_metrics_metrics_core_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_codahale_metrics_metrics_jvm_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_reflectasm_reflectasm_1_09.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_reflectasm_reflectasm_shaded_1_07.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_http_client_google_http_client_1_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_http_client_google_http_client_xml_1_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_jcraft_jsch_0_1_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_kun_streaming_kun_streaming_flink_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_squareup_okio_okio_1_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_twitter_carbonite_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__com_twitter_chill_java_0_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__commons_pool_commons_pool_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_dropwizard_metrics_metrics_healthchecks_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_minio_minio_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__joda_time_joda_time_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__nekohtml_nekohtml_1_9_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__nekohtml_xercesMinimal_1_9_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_curator_curator_client_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_curator_curator_framework_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_jcr_commons_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_webdav_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_apt_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_fml_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xdoc_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_archiver_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_core_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_model_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_profile_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_project_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_settings_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_toolchain_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_plugins_maven_javadoc_plugin_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_shared_maven_common_artifact_filters_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_shared_maven_invoker_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_common_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_external_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_webdav_jackrabbit_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_clojure_clojure_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_jboss_netty_netty_3_2_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_jgrapht_jgrapht_core_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_ow2_asm_asm_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_rocksdb_rocksdbjni_3_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__redis_clients_jedis_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink-fengchao/honeycomb-streaming-parent/honeycomb-streaming-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop-compress-master/src/main/java/com/people/hdfs/FileHdfsMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-article/honeycomb-streaming-article (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-deploy/honeycomb-streaming-deploy (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__classworlds_classworlds_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_ahocorasick_0_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_cachecloud_client_redis_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_jieba_analysis_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_pcommon_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_peopleyuqing_common_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__cn_peopleyuqing_sms_webservice_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_alibaba_fastjson_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_alibaba_jstorm_jstorm_core_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_caucho_hessian_4_0_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_codahale_metrics_metrics_core_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_codahale_metrics_metrics_jvm_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_reflectasm_reflectasm_1_09.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_esotericsoftware_reflectasm_reflectasm_shaded_1_07.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_jcraft_jsch_0_1_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_kun_streaming_kun_streaming_flink_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_twitter_carbonite_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__com_twitter_chill_java_0_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__commons_pool_commons_pool_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__io_dropwizard_metrics_metrics_healthchecks_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__joda_time_joda_time_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__nekohtml_nekohtml_1_9_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__nekohtml_xercesMinimal_1_9_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_curator_curator_client_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_curator_curator_framework_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_jcr_commons_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_webdav_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_apt_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_fml_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xdoc_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_archiver_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_core_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_model_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_profile_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_project_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_settings_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_maven_toolchain_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_plugins_maven_javadoc_plugin_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_shared_maven_common_artifact_filters_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_shared_maven_invoker_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_common_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_external_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_maven_wagon_wagon_webdav_jackrabbit_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_clojure_clojure_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_jboss_netty_netty_3_2_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_jgrapht_jgrapht_core_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_ow2_asm_asm_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_rocksdb_rocksdbjni_3_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__redis_clients_jedis_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../honeycomb-streaming-parent/honeycomb-streaming-deploy/honeycomb-streaming-deploy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__cn_peopleyuqing_ahocorasick_0_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_honeycomb_streaming_honeycomb_streaming_article_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_honeycomb_streaming_honeycomb_streaming_netopinion_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_honeycomb_streaming_honeycomb_streaming_zhongyun_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_kun_streaming_kun_streaming_flink_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_lmax_disruptor_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_glassfish_javax_el_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_CR2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_hateoas_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_23_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_core_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_expression_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_test_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_web_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kun-streaming-boot-rmzx/kun-streaming-boot.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1705204512">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="40" />
+          <entry key="properties" value="1" />
+          <entry key="reg1069" value="1" />
+          <entry key="ruleReg" value="1" />
+          <entry key="txt" value="14" />
+          <entry key="word1069" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="40" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="3" />
+          <entry key="java" value="2704" />
+          <entry key="properties" value="10" />
+          <entry key="ruleReg" value="65" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2704" />
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="Properties" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2099848912">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+          <entry key="word1069" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="145" column="50" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ExcelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ArticleBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ExportExcel2007.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/ACTrie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3705">
+              <caret line="223" column="23" selection-start-line="223" selection-start-column="23" selection-end-line="223" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/InterruptibleCharSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/reg1069">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/word1069">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/ruleReg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret column="5246" selection-start-column="15" selection-end-column="5246" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>疫情</find>
+      <find>防疫</find>
+      <find>防疫站</find>
+      <find>pubtime</find>
+      <find>1586394323083</find>
+      <find>806,807,752</find>
+      <find>weight</find>
+      <find>meidiaweight</find>
+      <find>睡</find>
+      <find>newReg</find>
+      <find>材料</find>
+      <find>ArticleBean</find>
+      <find>ExportExcel2007</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/main/NewsBean_Dowload.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/tools/ReadFileToGetIds.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtWeiboDataBySparkSql.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtDataBySparkSql.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/bean/NewsBean.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/bean/PeopleClassifierResult.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/test/DownloadDataBySparkSql.java" />
+        <option value="$PROJECT_DIR$/src/app.properties" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPService.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/InterruptibleCharSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/tools/DownloadDataBySparkSql.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/test.java" />
+        <option value="$PROJECT_DIR$/resources/test.txt" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/ACTrie.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/ruleReg" />
+        <option value="$PROJECT_DIR$/resources/35923/35923_6_regex.txt" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/ArticleBean.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/ExportExcel2007.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/ExcelTest.java" />
+        <option value="$PROJECT_DIR$/src/com/peopleyuqing/utils/WriteResultToExcel.java" />
+        <option value="$PROJECT_DIR$/src/com/bigdata/jianghu/action/ruleReg" />
+        <option value="$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ExcelTest.java" />
+        <option value="$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\work\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="48" />
+    <option name="width" value="1910" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="downloaddata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actreerule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="downloaddata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actreerule" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="downloaddata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actreerule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="downloaddata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actreerule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="downloaddata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actreerule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="downloaddata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actreerule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591148142062" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fpy\workspace\actreerule\src\com\com\bigdata\jianghu\action" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.peopleyuqing.utils" />
+      <recent name="com.peopleyuqing.test" />
+      <recent name="com.peopleyuqing.bean" />
+      <recent name="com.peopleyuqing.main" />
+      <recent name="com.peopleyuqing.tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fpy\workspace\actreerule\resources" />
+      <recent name="E:\代码\downloaddata-master-2850cb272fe45e3b1bc9cf8d5791dee360c04aa1-常规下载源码\resources\35205" />
+      <recent name="E:\代码\downloaddata-master-2850cb272fe45e3b1bc9cf8d5791dee360c04aa1-常规下载源码\resources" />
+      <recent name="E:\代码\downloaddata-master-2850cb272fe45e3b1bc9cf8d5791dee360c04aa1-常规下载源码\resources\35923" />
+      <recent name="E:\代码\downloaddata-master-2850cb272fe45e3b1bc9cf8d5791dee360c04aa1-常规下载源码\resources\39139" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WriteResultToExcel (1)">
+    <configuration name="ACTrie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bigdata.jianghu.action.ACTrie" />
+      <module name="downloaddata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigdata.jianghu.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ACTrie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.peopleyuqing.utils.ACTrie" />
+      <module name="downloaddata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigdata.jianghu.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteResultToExcel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bigdata.jianghu.action.WriteResultToExcel" />
+      <module name="downloaddata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigdata.jianghu.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteResultToExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.peopleyuqing.utils.WriteResultToExcel" />
+      <module name="downloaddata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigdata.jianghu.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.peopleyuqing.main.DownloadTxtDataBySparkSql" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.peopleyuqing.main.DownloadTxtDataBySparkSql" />
+      <module name="downloaddata" />
+      <option name="PROGRAM_PARAMETERS" value=" D:\fpy\testdownload\1.txt D:\fpy\" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.peopleyuqing.utils.test" />
+      <module name="downloaddata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigdata.jianghu.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.download" />
+      <item itemvalue="Application.WriteResultToExcel" />
+      <item itemvalue="Application.ACTrie" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.ACTrie (1)" />
+      <item itemvalue="Application.WriteResultToExcel (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WriteResultToExcel (1)" />
+        <item itemvalue="Application.ACTrie (1)" />
+        <item itemvalue="Application.ACTrie" />
+        <item itemvalue="Application.WriteResultToExcel" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34651277-f1ad-4c4b-931a-b01d2f87f2e6" name="Default Changelist" comment="" />
+      <created>1552628285309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552628285309</updated>
+      <workItem from="1552628293378" duration="2165000" />
+      <workItem from="1580718992347" duration="17000" />
+      <workItem from="1580720356058" duration="6068000" />
+      <workItem from="1580730383176" duration="8325000" />
+      <workItem from="1580868832861" duration="7355000" />
+      <workItem from="1581494680042" duration="599000" />
+      <workItem from="1582012986351" duration="16236000" />
+      <workItem from="1584086342782" duration="10000" />
+      <workItem from="1584086915287" duration="654000" />
+      <workItem from="1584341818681" duration="2441000" />
+      <workItem from="1584513536155" duration="53000" />
+      <workItem from="1585301430573" duration="19235000" />
+      <workItem from="1586313615079" duration="24079000" />
+      <workItem from="1586826594444" duration="32422000" />
+      <workItem from="1590121251844" duration="22000" />
+      <workItem from="1590130800105" duration="1753000" />
+      <workItem from="1590369621732" duration="41833000" />
+      <workItem from="1590991493344" duration="2026000" />
+      <workItem from="1591148193410" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165294000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25053304" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25081432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35871965" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30510315" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.10554371" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtDataBySparkSql.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtDataBySparkSql.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tools/ReadFileToGetIds.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtWeiboDataBySparkSql.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/test/DownloadDataBySparkSql.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPService.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPService.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPService.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tools/DownloadDataBySparkSql.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tools/DownloadDataBySparkSql.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/peopleyuqing/tools/DownloadDataBySparkSql.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/ACTrie.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/ACTrie.java</url>
+          <line>210</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((com.google.gson.internal.StringMap)newsBean.get(11)).entrySet().toArray()[86]" custom="com.google.gson.internal.StringMap" />
+        <watch expression="((com.google.gson.internal.StringMap)newsBean.get(11)).entrySet().toArray()[86]" custom="com.google.gson.internal.StringMap" />
+        <watch expression="newsBean.get(28)" />
+        <watch expression="newsBean.get(28)" />
+        <watch expression="newsBean.get(28)" language="JAVA" />
+        <watch expression="((com.google.gson.internal.StringMap)newsBean.get(2)).entrySet().toArray()[59]" custom="com.google.gson.internal.StringMap" />
+        <watch expression="((com.google.gson.internal.StringMap)newsBean.get(2)).entrySet().toArray()[31]" custom="com.google.gson.internal.StringMap" />
+        <watch expression="newsBean.get(2)" />
+        <watch expression="newsBean.get(5)" />
+        <watch expression="newsBean.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/1580721592138.txt" />
+    <entry file="file://$PROJECT_DIR$/doc/1580725530159.txt" />
+    <entry file="file://$PROJECT_DIR$/doc/1580730014734.txt" />
+    <entry file="file://$PROJECT_DIR$/doc/01-01_01-15.txt" />
+    <entry file="file://$PROJECT_DIR$/doc/11-1_11-10.txt" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/NewsBean_Dowload.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tools/ReadFileToGetIds.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tools/article.txt" />
+    <entry file="file://$PROJECT_DIR$/bin/com/peopleyuqing/main/DownloadTxtWeiboDataBySparkSql.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/bean/PeopleClassifierResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tools/TestMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/bean/ResultBean.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/MultiDistinctDownloadDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/DistinctDownloadDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/src/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPService.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/offlineDownload.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tfp/FTPStatus.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tools/ExportExcel2007.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/spark-assembly-1.3.0-hadoop2.2.0.jar!/org/apache/commons/net/nntp/Article.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/bean/ArticleBean.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tools/SparkJDBC.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/bean/NewsBean.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtWeiboDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/main/DownloadTxtDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/test/DownloadDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/peopleyuqing/tools/DownloadDataBySparkSql.java" />
+    <entry file="file://$PROJECT_DIR$/resources/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/39139/39139_3_words.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/25421/25421_5_words.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/35923/35923_6_words.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/35923/35923_6_regex.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/35205/35205_6_words.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/35047/35047_3_regex.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/35047/35047_3_words.txt" />
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/WriteResultToExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="145" column="50" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ExcelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ArticleBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/utils/ExportExcel2007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/ACTrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3705">
+          <caret line="223" column="23" selection-start-line="223" selection-start-column="23" selection-end-line="223" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/InterruptibleCharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/reg1069">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/word1069">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bigdata/jianghu/action/ruleReg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret column="5246" selection-start-column="15" selection-end-column="5246" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>downloaddata</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
